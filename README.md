@@ -20,8 +20,7 @@
     <com.xxx.xxx.xxx.RollNumberTextView
         android:id="@+id/roll_number_text_view"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="50dp" />
+        android:layout_height="wrap_content" />
 ```
 
 >startAnimator即可起飞

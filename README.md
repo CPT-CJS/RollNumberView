@@ -31,4 +31,4 @@
  ```
 
 
-  [1]: https://raw.githubusercontent.com/SAKURA5460/RollNumberView/master/preview.gif
+  [1]: https://github.com/CPT-CJS/RollNumberView/blob/master/preview.gif
